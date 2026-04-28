@@ -1,0 +1,7 @@
+streamlit>=1.18
+pandas
+scikit-learn
+pyttsx3
+google-generativeai
+gtts
+deep-translator
